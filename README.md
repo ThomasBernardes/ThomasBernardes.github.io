@@ -1,2 +1,2 @@
-# thomasbernardes.github.io
+# devweek.github.io
 Curriculo do Jornada Web
