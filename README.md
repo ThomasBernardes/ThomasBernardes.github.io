@@ -10,6 +10,8 @@ Aqui segue o currículo da Jornada Web em que foi utilizado conhecimentos de HTM
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasBernardes&theme=dark)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBernardes&repo=ThomasBernardes.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
