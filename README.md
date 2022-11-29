@@ -1,10 +1,10 @@
 ## Olá, me chamo Thomas e esse é o Projeto DEVWEEK 2022 oferecido pela EBAC.
 
-Aqui segue o currículo da Jornada Web em que foi utilizado conhecimentos de HTML5 e CSS3 para desenvolvimento do projeto final.
+### Aqui segue o currículo da Jornada Web em que foi utilizado conhecimentos de HTML5 e CSS3 para desenvolvimento do projeto final.
 
 # Projeto
 
-## Link do Projeto Finalizado: https://thomasbernardes.github.io
+###### Link do Projeto Finalizado: https://thomasbernardes.github.io
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBernardes&repo=ThomasBernardes.github.io)
 
