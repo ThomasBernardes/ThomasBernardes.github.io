@@ -3,6 +3,9 @@
 Aqui segue o currículo da Jornada Web em que foi utilizado conhecimentos de HTML5 e CSS3 para desenvolvimento do projeto final.
 
 # Projeto
+
+## Link do Projeto Finalizado: https://thomasbernardes.github.io
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThomasBernardes&repo=ThomasBernardes.github.io)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasBernardes&theme=dark)
@@ -13,7 +16,5 @@ Aqui segue o currículo da Jornada Web em que foi utilizado conhecimentos de HTM
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
-ThomasBernardes.github.io
 
 
