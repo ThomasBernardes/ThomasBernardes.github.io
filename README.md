@@ -1,2 +1,2 @@
-# devweek.github.io
-Curriculo do Jornada Web
+# ThomasBernardes.github.io
+Curriculo do Jornada Web EBAC (Devwekk)
