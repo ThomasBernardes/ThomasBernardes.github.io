@@ -7,7 +7,8 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #000000;
+
 }
 
 .resume-contents {
@@ -21,13 +22,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #2424244d;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #4B6982;
+    background-color: #373b3f5c;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -37,17 +38,19 @@ body {
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #1B2631;
+    border-bottom: 2px solid #26acf1;
 }
 
 .profile .profile-image {
-    width: 100%;
-    border-radius: 50%;
-    border: 8px solid #1B2631;
+    padding: 5px;
+    margin-left: 30px;
+    width: 80%;
+    border-radius: 10%;
+    border: 8px solid #26acf1d1;
 }
 
 .name {
-    color: #D6DBDF;
+    color: #ffffff;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -57,7 +60,7 @@ body {
 }
 
 .profession {
-    color: #FDB44B;
+    color: #38b5fd;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -68,7 +71,7 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #FDB44B;
+    color: #26acf1;
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -135,9 +138,9 @@ body {
 }
 
 .right-title {
-    color: #70C6C7;
+    color: #26acf1;
     font-size: 40px;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     text-transform: uppercase;
     font-weight: bold;
     display: flex;
@@ -174,7 +177,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
+    color: #66d6ff;
     padding-bottom: .4rem;
 }
 
@@ -193,8 +196,12 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
+    color: #66d6ff;
     padding-bottom: .4rem;
+}
+
+#mail {
+    font-size: 13px;
 }
 
 .exp-desc,
