@@ -9,6 +9,7 @@
 body {
     background-color: #000000;
 
+    /* fotos certificados */
 }
 #certificados {
     width: 80%;
@@ -17,6 +18,7 @@ body {
 .devWeek {
     width: 80%;
 }
+    /* fotos certificados */
 
 .resume-contents {
     min-height: 100vh;
