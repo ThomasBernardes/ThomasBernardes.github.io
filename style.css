@@ -10,6 +10,13 @@ body {
     background-color: #000000;
 
 }
+#certificados {
+    width: 80%;
+}
+
+.devWeek {
+    width: 80%;
+}
 
 .resume-contents {
     min-height: 100vh;
@@ -163,7 +170,8 @@ body {
 
 .experience-contents,
 .education-contents,
-.awards-contents {
+.awards-contents,
+.certificados-contents{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-bottom: 2rem;
